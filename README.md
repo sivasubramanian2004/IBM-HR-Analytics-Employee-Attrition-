@@ -1,6 +1,6 @@
 # 📊 IBM HR Analytics Employee Attrition Dashboard – Power BI
 
-![Dashboard Screenshot](ibm_hr_analysis.png)
+![Dashboard Screenshot](Ibm_hr_analysis.png)
 
 ## 📁 Project Overview
 This project explores the **IBM HR Analytics Employee Attrition dataset** using **Power BI** to uncover key insights around employee attrition, satisfaction, and HR-related KPIs.
